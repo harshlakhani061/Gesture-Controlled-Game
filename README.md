@@ -10,4 +10,4 @@ This project is developed using Python and its libraries - Pygame, OpenCV.
 ![](./Snapshots/Combine Kick.jpg)
 
 
-![](./Snapshots/Combine Punch.jpg)
+![](./Snapshots/Combine Punch .jpg)
