@@ -5,9 +5,3 @@ The player can perform four actions i.e., punch, kick, move forward, move backwa
 action will be performed by the player in the game.
 
 This project is developed using Python and its libraries - Pygame, OpenCV.
- 
-
-![](./Snapshots/Combine Kick.jpg)
-
-
-![](./Snapshots/Combine Punch .jpg)
