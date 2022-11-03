@@ -7,10 +7,7 @@ action will be performed by the player in the game.
 This project is developed using Python and its libraries - Pygame, OpenCV.
  
 
-![](./Snapshots/1.PNG)
+![](./Snapshots/Combine Kick.jpg)
 
 
-![](./Snapshots/2.PNG)
-
-
-![](./Snapshots/3.PNG)
+![](./Snapshots/Combine Punch.jpg)
